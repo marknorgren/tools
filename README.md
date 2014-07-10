@@ -20,3 +20,7 @@ List of Software and Tools used
 
 ## Utilities
 * Go2Shell
+* XtraFinder
+  
+  http://www.trankynam.com/xtrafinder/
+* 
