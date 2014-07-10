@@ -27,7 +27,14 @@ List of Software and Tools used
 
 ## Utilities
 * Go2Shell
-* XtraFinder
+* [XtraFinder](http://www.trankynam.com/xtrafinder/)
   
-  http://www.trankynam.com/xtrafinder/
+  XtraFinder adds nice little features to the Finder app.
+    * Arrange folders on top
+    * Cut & Paste
+    * "Copy Path", "Refresh", "New File"
+  
+  My XtraFinder preferences: [XtraFinder-Preferences.plist](config-files/XtraFinder-Preferences.plist)
+  
+
 * 
