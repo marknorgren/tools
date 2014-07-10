@@ -4,7 +4,12 @@ DeveloperToolsList2014
 List of Software and Tools used
 
 # Hardware
-
+  * MacBook Pro Retina, 13-inch, Late 2013
+  * 2.8 GHz Intel Core i7
+  * 16 GB 1600 MHz DDR3
+  * Intel Iris Graphics
+  * Display - 13-inch (3360 x 2100)
+  * 1 TB SSD 
 
 
 # Software
