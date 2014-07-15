@@ -35,6 +35,7 @@ List of Software and Tools used
     * "Copy Path", "Refresh", "New File"
   
   My XtraFinder preferences: [XtraFinder-Preferences.plist](config-files/XtraFinder-Preferences.plist)
-  
+* Quick Look Plugins
+  * https://github.com/whomwah/qlstephen
 
 * 
