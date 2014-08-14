@@ -16,14 +16,30 @@ List of Software and Tools used
 * Chrome
 * Firefox
 * Dropbox
+ * https://www.dropbox.com/install
+* Lastpass
 * Google Drive
 * Alfred (pending removal: this has been [Sherlocked](http://www.urbandictionary.com/define.php?term=sherlocked) in OS X Yosemite)
   
   This has been built into Spotlight for the Yosemite OS X release. I'll review it this Fall to see if it can replace Alfred.
 
+## Security
+
+* Lastpass
+ * Password manager
+ * https://lastpass.com
+
+## Data Backup
+  * Crashplan 
+    * http://www.code42.com/crashplan/
+
 
 ## Dev Tools
 
+* Charles Proxy
+  * An http proxy debug tool
+  * http://www.charlesproxy.com/latest-release/download.do
+* 
 
 ## Utilities
 * Go2Shell
