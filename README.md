@@ -39,7 +39,7 @@ List of Software and Tools used
 ### Source Control
 I use [git](http://git-scm.com/) for all my version control.
 
-* Git GUIs
+#### Git GUIs
 
 Source tree is my primary Git GUI that I use. It works very well on the Mac, but it does not perform well on Windows. Another option [Tower](http://www.git-tower.com/) has release version 2. I am keeping on eye on that one, but for now Sourcetree works well for me.
 
