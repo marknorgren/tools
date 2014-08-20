@@ -51,7 +51,9 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * Charles Proxy
   * An http proxy debug tool
   * http://www.charlesproxy.com/latest-release/download.do
-* 
+* [f.lux](https://justgetflux.com/)
+  
+  Adapts color of your display to the time of day. This helps out when coding late into the evenings!
 
 ## Utilities
 * [iStat Menu Meters](http://bjango.com/mac/istatmenus/)
