@@ -53,7 +53,7 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
   * http://www.charlesproxy.com/latest-release/download.do
 * [f.lux](https://justgetflux.com/)
   
-  Adapts color of your display to the time of day. This helps out when coding late into the evenings!
+  Adapts color of your display to the time of day. This helps out when coding late into the evenings! They even have a link to some [research](https://justgetflux.com/research.html) if you are skeptical.
 
 ## Utilities
 * [iStat Menu Meters](http://bjango.com/mac/istatmenus/)
