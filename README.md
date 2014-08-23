@@ -36,6 +36,11 @@ List of Software and Tools used
 
 ## Dev Tools
 
+
+### Ruby
+
+  * Ruby environment mangement [rbenv](https://github.com/sstephenson/rbenv)
+
 ### Source Control
 I use [git](http://git-scm.com/) for all my version control.
 
