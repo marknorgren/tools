@@ -84,3 +84,6 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * CPA
   * [Cocoa Packet Analyzer](http://www.tastycocoabytes.com/cpa/index.php) is a native OS X implementation of a network protocol analyzer and packet sniffer.
 
+## Automated Setup References
+
+* https://github.com/bkuhlmann/osx
