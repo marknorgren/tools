@@ -86,4 +86,5 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 
 ## Automated Setup References
 
+* http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac
 * https://github.com/bkuhlmann/osx
