@@ -36,6 +36,10 @@ List of Software and Tools used
 
 ## Dev Tools
 
+### iOS Development
+
+  * [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12&uo=4&at=10lqb3)
+    * create app icons for all sizes needed. Supports @1x, @2x, and @3x
 
 ### Ruby
 
@@ -52,6 +56,7 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
   * [Tower](http://www.git-tower.com/)
 
 ### Other
+
 
 * Charles Proxy
   * An http proxy debug tool
