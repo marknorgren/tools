@@ -25,9 +25,17 @@ List of Software and Tools used
 
 ## Security
 
-* Lastpass
- * Password manager
- * https://lastpass.com
+### Password Managers
+
+Lastpass was the first password manager that I used. It has worked well for me, but I thought I would try out 1Password since they have a native Mac app.
+
+1Password does offer [sync](https://guides.agilebits.com/1password-mac/5/en/topic/sync-preferences) through Dropbox, iCloud or folder syncing. With folder syncing you can keep your vault off any third party servers.
+
+I may switch to 1Password since they do offer more control over sync.
+
+* [Lastpass](https://lastpass.com)
+* [1Password](https://agilebits.com/onepassword)
+
 
 ## Data Sync / Backup
   
