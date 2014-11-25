@@ -23,12 +23,12 @@ I have used Chrome for the past few years. Recently it has been using more resou
   alt="Apple-OS-X-Yosemite-Advanced-Technologies"
   style="width:200px;float:right;">
 
-* Chrome
-* Firefox
-* Dropbox
- * https://www.dropbox.com/install
-* Lastpass
-* Google Drive
+* [Safari (preinstalled on Macs)](https://www.apple.com/safari/)
+* [Chrome](https://www.google.com/chrome/browser/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+
+
+## App Launchers
 * Alfred (pending removal: this has been [Sherlocked](http://www.urbandictionary.com/define.php?term=sherlocked) in OS X Yosemite)
   
   This has been built into Spotlight for the Yosemite OS X release. I'll review it this Fall to see if it can replace Alfred.
