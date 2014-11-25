@@ -29,7 +29,15 @@ List of Software and Tools used
  * Password manager
  * https://lastpass.com
 
-## Data Backup
+## Data Sync / Backup
+  
+  Currently I am using both Dropbox and Google Drive for file syncronization across multiple devices.
+
+  * [Dropbox](http://dropbox.com/)
+  * [Google Drive](http://www.google.com/drive/)
+  
+ Crashplan is the service I use for offsite backup. They have an unlimted family plan that I am currently using for  my multiple computers.
+
   * Crashplan 
     * http://www.code42.com/crashplan/
 
