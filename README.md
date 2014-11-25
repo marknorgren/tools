@@ -13,6 +13,16 @@ List of Software and Tools used
 
 
 # Software
+
+## Browsers
+
+I have used Chrome for the past few years. Recently it has been using more resources and seeminly slowing down a bit. On a laptop this causes more battery drain. Apple has put quite a bit of effort into making [Safari more energy efficient](https://www.apple.com/osx/advanced-technologies/) since the release of OS X Mavericks so I try to use Safari more and more.
+
+<img 
+  src="https://www.evernote.com/shard/s6/sh/8bbb35a6-8c91-418b-bf2a-b59be0f15568/c1180753c047a3f6ac3aea29c286e530/deep/0/Apple---OS-X-Yosemite---Advanced-Technologies.png" 
+  alt="Apple-OS-X-Yosemite-Advanced-Technologies"
+  style="width:200px;">
+
 * Chrome
 * Firefox
 * Dropbox
