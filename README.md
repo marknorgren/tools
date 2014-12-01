@@ -66,6 +66,8 @@ I may switch to 1Password since they do offer more control over sync.
 
   * [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12&uo=4&at=10lqb3)
     * create app icons for all sizes needed. Supports @1x, @2x, and @3x
+  * [iOS Console](http://lemonjar.com/iosconsole/)
+    * nice way to view iOS console for connected devices
 
 ### Ruby
 
