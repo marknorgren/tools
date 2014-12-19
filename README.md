@@ -93,6 +93,12 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
   
   Adapts color of your display to the time of day. This helps out when coding late into the evenings! They even have a link to some [research](https://justgetflux.com/research.html) if you are skeptical.
 
+## Graphics - Image Editing
+
+* [Acorn](http://www.flyingmeat.com/acorn/)
+* [Sketch](http://bohemiancoding.com/sketch/)
+* [Pixelmator](http://www.pixelmator.com/)
+
 ## Utilities
 * [iStat Menu Meters](http://bjango.com/mac/istatmenus/)
 * (<a href="https://itunes.apple.com/us/app/go2shell/id445770608?mt=12&uo=4" target="itunes_store">Go2Shell - Alice Dev Team</a>)
