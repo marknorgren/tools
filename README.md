@@ -68,6 +68,10 @@ I may switch to 1Password since they do offer more control over sync.
     * create app icons for all sizes needed. Supports @1x, @2x, and @3x
   * [iOS Console](http://lemonjar.com/iosconsole/)
     * nice way to view iOS console for connected devices
+ 
+#### UI View Debuggers
+  * [Spark Inspector](http://sparkinspector.com/)
+  * [Reveal App](http://revealapp.com/)
 
 ### Ruby
 
