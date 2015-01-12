@@ -111,7 +111,7 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * [XtraFinder](http://www.trankynam.com/xtrafinder/)
 
 ### Managing hard drive space usage
-* [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860?mt=12&uo=4)
+* [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860?mt=12&uo=4) $9.99 Mac App Store
 * [Disk Inventory X](http://www.derlien.com/)
   * These programs allow you to view where all of your hard drive space is being used. It scans your hard drive
     and gives a nice visual representation of your hard drive space usage.
