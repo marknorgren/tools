@@ -109,6 +109,9 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * [Bartender](http://www.macbartender.com/)
  * hide unnecessary menu bar items - clean up that clutter!
 * [XtraFinder](http://www.trankynam.com/xtrafinder/)
+* [Disk Inventory X](http://www.derlien.com/)
+  * I use Disk Inventory X to view where are of my hard drive space is being used. It scans your hard drive
+    and gives a nice visual representation of your hard drive space usage.
   
   XtraFinder adds nice little features to the Finder app.
     * Arrange folders on top
