@@ -116,7 +116,8 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
   * These programs allow you to view where all of your hard drive space is being used. It scans your hard drive
     and gives a nice visual representation of your hard drive space usage.
   
-  XtraFinder adds nice little features to the Finder app.
+
+* XtraFinder adds nice little features to the Finder app.
     * Arrange folders on top
     * Cut & Paste
     * "Copy Path", "Refresh", "New File"
