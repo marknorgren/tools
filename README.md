@@ -70,7 +70,12 @@ I may switch to 1Password since they do offer more control over sync.
     * nice way to view iOS console for connected devices
  
 #### UI View Debuggers
+ 
+ There are two main applications available [Spark Inspector](http://sparkinspector.com/) and [Reveal App](http://revealapp.com/). Currently I use Spark Inspector.
+ 
+
   * [Spark Inspector](http://sparkinspector.com/)
+    * debugs Notifications as well as UI.
   * [Reveal App](http://revealapp.com/)
 
 ### Ruby
