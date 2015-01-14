@@ -54,7 +54,7 @@ I may switch to 1Password since they do offer more control over sync.
   * [Dropbox](http://dropbox.com/)
   * [Google Drive](http://www.google.com/drive/)
   
- Crashplan is the service I use for offsite backup. They have an unlimted family plan that I am currently using for  my multiple computers.
+ Crashplan is the service I use for offsite backup. They have an unlimited family plan that I am currently using for  my multiple computers.
 
   * Crashplan 
     * http://www.code42.com/crashplan/
