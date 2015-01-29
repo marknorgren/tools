@@ -109,6 +109,10 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * [Pixelmator](http://www.pixelmator.com/)
 
 ## Utilities
+* [Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+  * Macros
+    * http://www.keyboardmaestro.com/main/macro-library#type-clipboard
+      * this is handy for entering serial numbers or passwords into application that disabled pasting text (OS X            does this when trying to decrypt a disk with a key (password)
 * [iStat Menu Meters](http://bjango.com/mac/istatmenus/)
 * (<a href="https://itunes.apple.com/us/app/go2shell/id445770608?mt=12&uo=4" target="itunes_store">Go2Shell - Alice Dev Team</a>)
 * [Bartender](http://www.macbartender.com/)
