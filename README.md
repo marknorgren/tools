@@ -62,6 +62,13 @@ I may switch to 1Password since they do offer more control over sync.
 
 ## Dev Tools
 
+### homebrew
+
+  * [homebrew](http://brew.sh/) The missing package manager for OS X.
+  
+  Cakebrew is a GUI for homebrew. I haven't tried it yet, but put it here so I remember to try it at some point.
+  * https://www.cakebrew.com/
+
 ### iOS Development
 
   * [Prepo](https://itunes.apple.com/us/app/prepo/id476533227?mt=12&uo=4&at=10lqb3)
