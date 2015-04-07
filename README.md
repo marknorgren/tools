@@ -155,3 +155,8 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * [OS X 10.10 Yosemite Development Setup](http://fredkelly.net/articles/2014/10/19/developing_on_yosemite.html)
 * http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac
 * https://github.com/bkuhlmann/osx
+* 
+
+## System Administration
+
+* [github repo with list of sysadmin tools](https://github.com/n1trux/awesome-sysadmin)
