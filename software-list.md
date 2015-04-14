@@ -4,6 +4,19 @@
 * Color Loupe Tool http://jumpzero.com/frank/
 * CodeBox http://www.shpakovski.com/codebox/
 
+# Screenshot Tools
+
+## Skitch
+
+## Monosnap
+
+* http://monosnap.com/
+* doesn't allow selection 'move' after selecting area
+
+## Glui 2
+
+* https://itunes.apple.com/us/app/glui-2/id918207447?mt=12
+* doesn't allow selection 'move' after selecting area
 
 # Other Lists
 
