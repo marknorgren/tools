@@ -4,6 +4,25 @@
 * Color Loupe Tool http://jumpzero.com/frank/
 * CodeBox http://www.shpakovski.com/codebox/
 
+# Text Editors
+
+## Sublime Text
+
+* https://www.sublimetext.com/
+
+## Atom
+
+* https://atom.io/
+
+## Visual Studio Code
+
+* https://code.visualstudio.com/
+
+## Brackets
+
+* http://brackets.io/
+
+
 # Screenshot Tools
 
 ## Skitch
