@@ -44,3 +44,12 @@
 
 ## Windows
 * http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx
+
+
+# iOS
+
+## iPad Apps
+
+* Use iPad as a secondary monitor with your Mac
+  * [Duet Display](http://www.duetdisplay.com/)
+  * [Air Display](https://avatron.com/get-air-display/)
