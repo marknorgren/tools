@@ -27,6 +27,14 @@ I have used Chrome for the past few years. Recently it has been using more resou
 * [Chrome](https://www.google.com/chrome/browser/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 
+### Browser Extensions
+
+#### Privacy - Tracker Blocking
+
+* [uBlock](https://www.ublock.org)
+  * [uBlock Chrome](https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn/related)
+* [Ghostery](https://www.ghostery.com/en/)
+
 
 ## App Launchers
 * Alfred (pending removal: this has been [Sherlocked](http://www.urbandictionary.com/define.php?term=sherlocked) in OS X Yosemite)
