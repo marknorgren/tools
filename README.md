@@ -129,6 +129,7 @@ Source tree is my primary Git GUI that I use. It works very well on the Mac, but
 * [Bartender](http://www.macbartender.com/)
  * hide unnecessary menu bar items - clean up that clutter!
 * [XtraFinder](http://www.trankynam.com/xtrafinder/)
+* [Dropzone 3](https://aptonic.com/)
 
 ### Managing hard drive space usage
 * [DaisyDisk](https://itunes.apple.com/us/app/daisydisk/id411643860?mt=12&uo=4) $9.99 Mac App Store
