@@ -89,9 +89,9 @@ I may switch to 1Password since they do offer more control over sync.
 Sublime Text is my preffered text editor. VSCode is making progress, especially with its built in Node debugging.
 No other text editors can match Sublime Text's multiple cursors.
 
-Sublime Text - https://www.sublimetext.com/
-Visual Studio Code - https://code.visualstudio.com/
-Atom - https://atom.io/
+* Sublime Text - https://www.sublimetext.com/
+* Visual Studio Code - https://code.visualstudio.com/
+* Atom - https://atom.io/
 
 ### Ruby
 
