@@ -18,15 +18,9 @@ List of Software and Tools used
 
 I have used Chrome for the past few years. Recently it has been using more resources and seemingly slowing down a bit. On a laptop this causes more battery drain. Apple has put quite a bit of effort into making [Safari more energy efficient](https://www.apple.com/osx/advanced-technologies/) since the release of OS X Mavericks so I try to use Safari more and more.
 
-
 * [Safari (preinstalled on Macs)](https://www.apple.com/safari/)
 * [Chrome](https://www.google.com/chrome/browser/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/)
-
-### Browser Extensions
-
-#### Privacy - Tracker Blocking
-
 * [uBlock](https://www.ublock.org)
   * [uBlock Chrome](https://chrome.google.com/webstore/detail/ublock/epcnnfbjfcgphgdmggkamkmgojdagdnn/related)
 * [Ghostery](https://www.ghostery.com/en/)
@@ -89,9 +83,22 @@ I may switch to 1Password since they do offer more control over sync.
     * debugs Notifications as well as UI.
   * [Reveal App](http://revealapp.com/)
 
+
+### Text Editors
+
+Sublime Text is my preffered text editor. VSCode is making progress, especially with its built in Node debugging.
+No other text editors can match Sublime Text's multiple cursors.
+
+Sublime Text - https://www.sublimetext.com/
+Visual Studio Code - https://code.visualstudio.com/
+Atom - https://atom.io/
+
 ### Ruby
 
   * Ruby environment mangement [rbenv](https://github.com/sstephenson/rbenv)
+ 
+Node
+  * nvm - https://github.com/creationix/nvm
 
 ### Source Control
 I use [git](http://git-scm.com/) for all my version control.
