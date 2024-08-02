@@ -1,0 +1,6 @@
+{
+    "save_directory": "~/working/scratch",
+    "filename_format": "{timestamp}.txt",
+    "insert_timestamp": true,
+    "timestamp_format": "%Y_%m_%d_%H%M%S_%f"
+}
